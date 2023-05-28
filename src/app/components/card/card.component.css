@@ -17,6 +17,7 @@
   border-radius: 6px;
   text-align: center;
   height: 23px;
+  text-transform: lowercase;
 }
 
 .card__title {
@@ -61,8 +62,9 @@
 .card__stats__type {
   font-weight: bold;
   text-transform: capitalize;
+  color: black;
 
-  background-color: #000000;
+  background-color: white;
   border-radius: 18px;
   padding: 7px 10px
 }
