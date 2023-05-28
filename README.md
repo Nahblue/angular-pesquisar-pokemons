@@ -17,7 +17,7 @@ Projeto criado com Angular, um buscador de pokemóns usando a PokeApi com seleç
 <br>
 
 <p align="center">
-  <img alt="projeto PokeSearch" src="" width="80%">
+  <img alt="projeto PokeSearch" src="https://i.imgur.com/ldieNUq.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Uma SPA de busca de pokemóns
 
-[Link do projeto online]()
+[Link do projeto online](https://angular-pesquisar-pokemons.vercel.app/)
 
 ## :memo: Licença
 
